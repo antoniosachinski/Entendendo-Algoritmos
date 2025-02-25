@@ -1,3 +1,6 @@
+# função que ordena um array do menor para o maior
+# exercício proposto no segundo capítulo, denominado "Ordenação por seleção", dedicado a explicar sobre arrays e listas encadeadas.
+
 def ordenarLista(lista):
   tamanhoLista = len(lista)
   listaOrdenada = []
@@ -8,5 +11,5 @@ def ordenarLista(lista):
     listaOrdenada.append (maiorNumero)
   return listaOrdenada
 
-listaEx = [1,9,2,8,3,0,7,6,4,5]
-print(ordenarLista(listaEx))
+listaExemplo = [1,9,2,8,3,0,7,6,4,5]
+print(ordenarLista(listaExemplo))
