@@ -1,4 +1,4 @@
-# Função para procurar a string ()chave) dentro de uma lista (conjunto de caixa, possivelmtente com mais caixas dentro)
+# Função para procurar a string (chave) dentro de uma lista (conjunto de caixa, possivelmtente com mais caixas dentro)
 # A função utiliza recursão para lidar com listas dentro de listas
 
 def procurarChave(listaCaixas):
