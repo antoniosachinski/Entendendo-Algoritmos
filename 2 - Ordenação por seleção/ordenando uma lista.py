@@ -1,5 +1,5 @@
 # função que ordena um array do menor para o maior
-# exercício proposto no segundo capítulo, denominado "Ordenação por seleção", dedicado a explicar sobre arrays e listas encadeadas
+# exercício dedicado a explicar sobre arrays e listas encadeadas
 
 def ordenarLista(lista):
   tamanhoLista = len(lista)
