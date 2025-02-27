@@ -1,5 +1,5 @@
 # função que identifica a posição de um item em um array
-# execício proposto no primeiro capítulo, com o intuito de explicar a lógica básica de um algoritimo e criar uma base para aplicação da notação Big O, quando comparamos pesquisa simples com pesquisa binária
+# execício com o intuito de explicar a lógica básica de um algoritimo e criar uma base para aplicação da notação Big O, quando comparamos pesquisa simples com pesquisa binária
 
 def pesquisaBinaria (lista, item):
   baixo = 0
