@@ -1,5 +1,5 @@
 # função que identifica a posição de um item em um array
-# execício proposto no terceiro capítulo, com o intuito de explicar a recursão, conceito onde uma função chama a si mesma para resolver um problema
+# execício proposto com o intuito de explicar a recursão, conceito onde uma função chama a si mesma para resolver um problema
 
 numero = int(input("Digite um número para calcular o fatorial: "))
 # estrutura básica de uma função recursiva:
