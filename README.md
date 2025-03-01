@@ -18,11 +18,6 @@ A estrutura do repositório será organizada de forma a corresponder aos capítu
 - **Códigos de solução** dos exercícios.
 - **Explicações detalhadas** sobre a resolução dos problemas.
 
-### Exemplo de estrutura:
-
-- 1 - NomeCapítulo/ NomeExercício.py
-
-
 ## Contribuindo:
 
 - Se você deseja contribuir para este repositório, fique à vontade para abrir uma pull request! Seja para corrigir erros, adicionar melhorias, ou resolver mais exercícios, todas as contribuições são bem-vindas.
