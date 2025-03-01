@@ -2,8 +2,7 @@
 # a função utiliza recursão para lidar com listas dentro de listas
 
 def procurarChave(listaCaixas):
-  # percorre cada elemento na lista fornecida
-  for caractere in listaCaixas:
+  for caractere in listaCaixas: # percorre cada elemento na lista fornecida
     if isinstance(caractere, str):
         print ("Você encontrou  chave:", caractere)  # se for uma string, escreve o caractere encontrado
     elif isinstance(caractere, list):
