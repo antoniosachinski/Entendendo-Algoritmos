@@ -5,7 +5,7 @@ numero = int(input("Digite um número para calcular o fatorial: "))
 # estrutura básica de uma função recursiva:
 def fatorial(numero):
   if (numero == 1): 
-    return 1 # caso Base: A condição de parada, onde a função não se chama novamente
+    return 1 # caso base: A condição de parada, onde a função não se chama novamente
     # sem o caso base, a recursão continuaria infinitamente 
   else:
     return numero * fatorial(numero - 1) # chamada Recursiva: A parte onde a função se chama novamente
