@@ -1,6 +1,6 @@
 # Entendendo Algoritmos
 
-Este repositório contém a resolução dos exercícios propostos no livro **"Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos"**, escrito por **Aditya Y. Bhargav**. 
+Este repositório contém a resolução dos exercícios propostos no livro **"Entendendo Algoritmos: Um guia ilustrado para programadores e outros curiosos"**, escrito por **Aditya Y. Bhargava**. 
 
 O livro oferece uma abordagem visual e intuitiva para compreender algoritmos essenciais para a programação, e, neste repositório, buscaremos resolver cada exercício passo a passo, explicando os conceitos e a lógica por trás de cada solução.
 
