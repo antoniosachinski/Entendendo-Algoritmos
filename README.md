@@ -20,8 +20,8 @@ A estrutura do repositório será organizada de forma a corresponder aos capítu
 
 ## Contribuindo:
 
-- Se você deseja contribuir para este repositório, fique à vontade para abrir uma pull request! Seja para corrigir erros, adicionar melhorias, ou resolver mais exercícios, todas as contribuições são bem-vindas.
+Se você deseja contribuir para este repositório, fique à vontade para abrir uma pull request! Seja para corrigir erros, adicionar melhorias, ou resolver mais exercícios, todas as contribuições são bem-vindas.
 
 ## Agradecimentos
 
-- Ao autor Aditya Y. Bhargav pela criação deste excelente material, e ao GitHub por fornecer uma plataforma aberta para que possamos colaborar e compartilhar nosso aprendizado com outros desenvolvedores
+Ao autor Aditya Y. Bhargav pela criação deste excelente material, e ao GitHub por fornecer uma plataforma aberta para que possamos colaborar e compartilhar nosso aprendizado com outros desenvolvedores
