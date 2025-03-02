@@ -24,4 +24,4 @@ Se você deseja contribuir para este repositório, fique à vontade para abrir u
 
 ## Agradecimentos
 
-Ao autor Aditya Y. Bhargav pela criação deste excelente material, e ao GitHub por fornecer uma plataforma aberta para que possamos colaborar e compartilhar nosso aprendizado com outros desenvolvedores
+Ao autor Aditya Y. Bhargav pela criação deste excelente material, e ao GitHub por fornecer uma plataforma aberta para que possamos colaborar e compartilhar nosso aprendizado com outros desenvolvedores.
