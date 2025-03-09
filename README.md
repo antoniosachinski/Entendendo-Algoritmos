@@ -11,6 +11,8 @@ Este repositório tem como propósito:
 - **Resolver os exercícios** do livro de forma detalhada, utilizando código de fácil compreensão.
 - **Fornecer explicações** sobre o processo de resolução de cada exercício, abordando os conceitos fundamentais de cada algoritmo.
 
+Todo o repositório será desenvolvido **em Python**, tanto para seguir a linguagem base do livro quanto para tornar as soluções acessíveis a programadores de todos os níveis.
+
 ## Estrutura do Repositório
 
 A estrutura do repositório será organizada de forma a corresponder aos capítulos do livro, facilitando a navegação entre os exercícios. Cada capítulo terá sua própria pasta com:
