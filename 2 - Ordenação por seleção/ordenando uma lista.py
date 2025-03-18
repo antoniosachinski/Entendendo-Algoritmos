@@ -2,14 +2,12 @@
 # exercício dedicado a explicar sobre arrays e listas encadeadas
 
 def ordenarLista(lista):
-  tamanhoLista = len(lista)
   listaOrdenada = []
-  while tamanhoLista > 0:
-    tamanhoLista -= 1
-    maiorNumero = min(lista)
-    lista.remove(maiorNumero)
-    listaOrdenada.append (maiorNumero)
+  while lista:
+    menorNumero = min(lista)
+    lista.remove(menorNumero)
+    listaOrdenada.append (menorNumero)
   return listaOrdenada
 
-listaExemplo = [1,9,2,8,3,0,7,6,4,5]
+listaExemplo = [88,33,47,76,20,31,74]
 print(ordenarLista(listaExemplo))
